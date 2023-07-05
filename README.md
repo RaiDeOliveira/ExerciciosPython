@@ -1,2 +1,2 @@
 # ExerciciosPython
-Repositório para registrar resolução de exercícios de programação na linguagem Python.
+Repositório para registrar resoluções de exercícios de programação na linguagem Python.
