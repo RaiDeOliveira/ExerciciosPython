@@ -1,2 +1,2 @@
-# ExerciciosPython
-Repositório para registrar resoluções de exercícios de programação na linguagem Python.
+# PythonMl-Ds
+Repositório para registrar resoluções de exercícios referentes a ML (Machine Learning) e DS (Data Science) na linguagem de programação Python.
